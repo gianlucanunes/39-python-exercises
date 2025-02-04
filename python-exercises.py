@@ -68,3 +68,10 @@
 #while invoiceIndex <= 5:
 #    print(f"Invoice {invoiceIndex}: US${invoice}")
 #    invoiceIndex+=1
+
+## algorithm 11
+#manufacturingCost = float(input("Enter the manufacturing cost of the product: US$"))
+#sellingPricePer = float(input("Enter the percentage of the price you want to put over the product to sell it (in %): "))
+#sellingPrice = manufacturingCost + manufacturingCost * sellingPricePer / 100
+#print(f"The product had a manufacturing cost of US${manufacturingCost} and it will be sold for US${sellingPrice} ({sellingPricePer}% more)")
+
